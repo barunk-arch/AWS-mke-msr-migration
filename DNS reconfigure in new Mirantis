@@ -1,0 +1,1 @@
+docker run -it docker/dtr:version reconfigure \ --ucp-username admin \ --dtr-external-url https://oldmsr.com --ucp-url https://oldmke.com \ --ucp-insecure-tls
