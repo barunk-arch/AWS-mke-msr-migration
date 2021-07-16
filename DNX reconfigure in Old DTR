@@ -1,0 +1,1 @@
+docker run -it --rm docker/dtr:version reconfigure --dtr-external-url <newdtrnds.com>--ucp-insecure-tls --ucp-url <newucpdns.com >--debug
